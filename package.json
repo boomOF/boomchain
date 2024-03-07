@@ -1,0 +1,20 @@
+{
+  "name": "boomchain",
+  "version": "1.0.0", 
+  "description": "it's boomchain",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boomOF/boomchain.git"
+  },
+  "keywords": [ 
+    "", 
+    "",
+    ""
+  ],
+  "author": "boomof",
+  "license": "MIT"
+}

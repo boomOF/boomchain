@@ -1,13 +1,13 @@
-# Your Package Name
+# boomchain
 
-Description of your package goes here.
+This code creates a SocialMediaAPI class with methods for interacting with Twitter, Facebook, and Instagram APIs. Each method takes a username or user ID as a parameter and makes a GET request to the corresponding social media platform's API using the provided API key.
 
 ## Installation
 
 You can install this package using your favorite package manager:
 
 ```
-npm install your-package-name
+npm install boomchain
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install your-package-name
 To use this package, simply import it into your project and start using its features:
 
 ```javascript
-const yourPackage = require('your-package-name');
+const yourPackage = require('boomchain');
 
 // Example usage
 yourPackage.methodName();

@@ -1,6 +1,6 @@
 {
   "name": "boomchain",
-  "version": "1.0.0", 
+  "version": "1.1.0", 
   "description": "it's boomchain",
   "main": "./src/index.js",
   "scripts": {
